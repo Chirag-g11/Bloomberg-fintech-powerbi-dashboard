@@ -21,7 +21,7 @@ A Bloomberg-inspired **financial analytics dashboard** built using **Power BI, D
 * Daily returns
 * Volume spike analysis
 
-![Technical Analysis](Dashboards/Time_Series_Price_Trends_&_Technicals .png)
+![Technical Analysis](Dashboards/Time_Series_Price_Trends_&_Technicals.png)
 
 ### 3. Liquidity & Volume Intelligence
 
@@ -31,15 +31,6 @@ A Bloomberg-inspired **financial analytics dashboard** built using **Power BI, D
 * Price-volume relationship
 
 ![Liquidity Analysis](Dashboards/Market_Liquidity_&_Volume_Intelligence.png)
-
-### 4. Volatility & Risk Analytics
-
-* Volatility analysis
-* Drawdown evaluation
-* Risk-adjusted performance
-* Stability comparison
-
-![Risk Analytics](screenshots/page4_risk.png)
 
 ## 🛠️ Tech Stack
 
